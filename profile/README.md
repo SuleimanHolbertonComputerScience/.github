@@ -45,7 +45,7 @@ Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinform
 | Repozitoriya | Növü | Təsvir və Məqsəd | Keçid |
 | :--- | :--- | :--- | :--- |
 | 🌐 **[SuleimanHolbertonComputerScience.github.io](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience.github.io)** | `Public` / `Pages` | **Canlı Vitrin Veb Saytı:** Holberton modulları, statistika, Bioinformatika körpüsü və interaktiv UI ilə təchiz olunmuş rəsmi portal. | [Canlı Sayt ↗](https://suleimanholbertoncomputerscience.github.io) |
-| 🔒 **[SuleimanHolbertonComputerScience](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)** | `Private` / `Core Vault` | **Əsas Kurs Materialları Anbarı:** 16 modul, 1832 git obyekti, tam commit tarixçəsi ilə bütöv kod arxivi. | [Kod Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience) |
+| 🔒 **[SuleimanHolbertonComputerScience](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)** | `Private` / `Core Vault` | **Əsas Kurs Materialları Anbarı & Obsidian LLM Wiki:** 16 modul, 1832 git obyekti, tam commit tarixçəsi, interaktiv `wiki/` bilik şəbəkəsi və `AGENTS.md` protokolu. | [Kod & Wiki Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience) |
 | ⚙️ **[.github](https://github.com/SuleimanHolbertonComputerScience/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilat üzrə qlobal profil, icma sağlamlığı və ekosistem standartları. | [.github Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/.github) |
 
 ---
