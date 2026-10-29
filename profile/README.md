@@ -11,12 +11,22 @@
 <div align="center">
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Canlı_Portfolio-suleimanholbertoncs.github.io-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suleimanholbertoncomputerscience.github.io)
-[![Core Vault](https://img.shields.io/badge/🔒_Core_Vault-SuleimanHolbertonCS-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)
+[![Core Vault](https://img.shields.io/badge/🔒_Məxfi_Baza_(Private)-SuleimanHolbertonCS-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)
+[![Request Access](https://img.shields.io/badge/📧_Access_Üçün_Müraciət-suleyman.hacizade1@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience%20Private%20Data%20Vault)
 [![Curriculum](https://img.shields.io/badge/📚_Curriculum-16+_Modules-10b981?style=for-the-badge)](https://suleimanholbertoncomputerscience.github.io#modules)
 [![Languages](https://img.shields.io/badge/⚡_Languages-C_•_Python_•_JS_•_Bash-f59e0b?style=for-the-badge)](https://suleimanholbertoncomputerscience.github.io)
-[![Organization](https://img.shields.io/badge/Organization-SuleimanHolbertonCS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanHolbertonComputerScience)
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> ### 🔒 Məxfi Məlumat Bazası və Giriş İcazəsi (Private Data Vault & Access Request)
+> **🇦🇿 Azərbaycan dilində:** Bu təşkilatın əsas kod bazası, kurs tapşırıqlarının tam həlləri, daxili dataları və 38+ sənədlik **Obsidian LLM Wiki** arxivi (`SuleimanHolbertonComputerScience` repozitoriyası) akademik bütövlük və müəllif hüquqlarının qorunması məqsədilə **Private (Məxfi)** olaraq saxlanılır. Əgər işə qəbul (recruitment), akademik qiymətləndirmə, elmi tədqiqat və ya əməkdaşlıq məqsədilə bu məlumatlara **giriş icazəsi (access)** əldə etmək istəyirsinizsə, birbaşa elektron poçt ünvanıma müraciət edə bilərsiniz:  
+> 📧 **E-poçt:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience%20Private%20Data%20Vault)
+>
+> **🇬🇧 In English:** All core source code, raw coursework implementations, datasets, and the internal **Obsidian LLM Wiki** (`SuleimanHolbertonComputerScience` repository) within this organization are strictly **Private** to uphold academic integrity and intellectual property protection. If you are a recruiter, academic reviewer, or collaborator and would like to **request access** to the private repositories and data, please reach out directly via email:  
+> 📧 **Email:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience%20Private%20Data%20Vault)
 
 ---
 
@@ -24,7 +34,7 @@
 
 * **Müəllif və Mühəndis:** **Suleiman M. Hajizadeh** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
 * **İxtisas Sahəsi:** *Bioinformatika, Hesablamalı Biologiya və Kompüter Elmləri (Computer Science)*
-* **Əlaqə:** `suleyman.hacizade1@gmail.com`
+* **Giriş İcazəsi və Əlaqə (Access Requests & Contact):** [`suleyman.hacizade1@gmail.com`](mailto:suleyman.hacizade1@gmail.com)
 * **Məkan:** Bakı, Azərbaycan (Baku, Azerbaijan)
 
 ---
@@ -42,11 +52,11 @@ Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinform
 
 ## 🗂️ Rəsmi Repozitoriyalar / Official Repositories
 
-| Repozitoriya | Növü | Təsvir və Məqsəd | Keçid |
+| Repozitoriya | Növü | Təsvir və Məqsəd | Keçid / Giriş |
 | :--- | :--- | :--- | :--- |
 | 🌐 **[SuleimanHolbertonComputerScience.github.io](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience.github.io)** | `Public` / `Pages` | **Canlı Vitrin Veb Saytı:** Holberton modulları, statistika, Bioinformatika körpüsü və interaktiv UI ilə təchiz olunmuş rəsmi portal. | [Canlı Sayt ↗](https://suleimanholbertoncomputerscience.github.io) |
-| 🔒 **[SuleimanHolbertonComputerScience](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)** | `Private` / `Core Vault` | **Əsas Kurs Materialları Anbarı & Obsidian LLM Wiki:** 16 modul, 1832 git obyekti, tam commit tarixçəsi, interaktiv `wiki/` bilik şəbəkəsi və `AGENTS.md` protokolu. | [Kod & Wiki Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience) |
-| ⚙️ **[.github](https://github.com/SuleimanHolbertonComputerScience/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilat üzrə qlobal profil, icma sağlamlığı və ekosistem standartları. | [.github Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/.github) |
+| 🔒 **[SuleimanHolbertonComputerScience](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)** | `Private` / `Core Vault` | **Məxfi Kurs Materialları Anbarı & Obsidian LLM Wiki:** 16 modul, 1832+ git obyekti, tam commit tarixçəsi, interaktiv `wiki/` bilik şəbəkəsi və `AGENTS.md` protokolu. *(Giriş yalnız dəvətlədir)* | [📧 Access İstə](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience) |
+| ⚙️ **[.github](https://github.com/SuleimanHolbertonComputerScience/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilat üzrə qlobal profil, məxfilik qaydaları və ekosistem standartları. | [.github Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/.github) |
 
 ---
 
@@ -107,5 +117,6 @@ Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinform
 
 <p align="center">
   <sub>🧬 <b>SuleimanHolbertonComputerScience</b> — Holberton School CS Foundations Archive & Computational Biology Bridge</sub><br>
+  <sub>🔒 <i>Bütün daxili məlumatlar və kod bazası məxfidir (Private). Giriş icazəsi üçün: <a href="mailto:suleyman.hacizade1@gmail.com">suleyman.hacizade1@gmail.com</a></i></sub><br>
   <sub>Müəllif: <a href="https://github.com/SuleimanHajizadeh">Süleyman Hacızadə</a> | Bakı, Azərbaycan</sub>
 </p>
