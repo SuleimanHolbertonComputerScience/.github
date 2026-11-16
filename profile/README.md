@@ -4,86 +4,86 @@
   </a>
 </p>
 
-# 🎓 Suleiman Holberton Computer Science
+# Suleiman Holberton Computer Science
 ### Holberton School — 9-Month Intensive Computer Science & Software Engineering Foundations
 ### Kompüter Elmləri, Sistem Proqramlaşdırması və Bioinformatika Mühəndisliyi Ekosistemi
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Canlı_Portfolio-suleimanholbertoncs.github.io-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suleimanholbertoncomputerscience.github.io)
-[![Core Vault](https://img.shields.io/badge/🔒_Məxfi_Baza_(Private)-SuleimanHolbertonCS-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)
-[![Request Access](https://img.shields.io/badge/📧_Access_Üçün_Müraciət-suleyman.hacizade1@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience%20Private%20Data%20Vault)
-[![Curriculum](https://img.shields.io/badge/📚_Curriculum-16+_Modules-10b981?style=for-the-badge)](https://suleimanholbertoncomputerscience.github.io#modules)
-[![Languages](https://img.shields.io/badge/⚡_Languages-C_•_Python_•_JS_•_Bash-f59e0b?style=for-the-badge)](https://suleimanholbertoncomputerscience.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-suleimanholbertoncs.github.io-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suleimanholbertoncomputerscience.github.io)
+[![Repository](https://img.shields.io/badge/Repository-Private-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)
+[![Access Inquiry](https://img.shields.io/badge/Access_Inquiry-suleyman.hacizade1%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience)
+[![Curriculum](https://img.shields.io/badge/Curriculum-16_Modules-10b981?style=for-the-badge)](https://suleimanholbertoncomputerscience.github.io#modules)
+[![Stack](https://img.shields.io/badge/Stack-C_•_Python_•_JS_•_Bash-f59e0b?style=for-the-badge)](https://suleimanholbertoncomputerscience.github.io)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ### 🔒 Məxfi Məlumat Bazası və Giriş İcazəsi (Private Data Vault & Access Request)
-> **🇦🇿 Azərbaycan dilində:** Bu təşkilatın əsas kod bazası, kurs tapşırıqlarının tam həlləri, daxili dataları və 38+ sənədlik **Obsidian LLM Wiki** arxivi (`SuleimanHolbertonComputerScience` repozitoriyası) akademik bütövlük və müəllif hüquqlarının qorunması məqsədilə **Private (Məxfi)** olaraq saxlanılır. Əgər işə qəbul (recruitment), akademik qiymətləndirmə, elmi tədqiqat və ya əməkdaşlıq məqsədilə bu məlumatlara **giriş icazəsi (access)** əldə etmək istəyirsinizsə, birbaşa elektron poçt ünvanıma müraciət edə bilərsiniz:  
-> 📧 **E-poçt:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience%20Private%20Data%20Vault)
+> ### Məxfi Məlumat Bazası və Giriş İcazəsi (Private Repository & Access Requests)
+> **Azərbaycan dilində:** Bu təşkilatın əsas kod bazası, kurs tapşırıqlarının tam həlləri, daxili məlumatları və texniki sənədləşmə materialları (`SuleimanHolbertonComputerScience` repozitoriyası) akademik bütövlük və müəllif hüquqlarının qorunması məqsədilə **Private (Məxfi)** olaraq saxlanılır. İşə qəbul (recruitment), akademik qiymətləndirmə, elmi tədqiqat və ya əməkdaşlıq məqsədilə bu məlumatlara **giriş icazəsi (access)** əldə etmək üçün birbaşa elektron poçt ünvanına müraciət edə bilərsiniz:  
+> **E-poçt:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience)
 >
-> **🇬🇧 In English:** All core source code, raw coursework implementations, datasets, and the internal **Obsidian LLM Wiki** (`SuleimanHolbertonComputerScience` repository) within this organization are strictly **Private** to uphold academic integrity and intellectual property protection. If you are a recruiter, academic reviewer, or collaborator and would like to **request access** to the private repositories and data, please reach out directly via email:  
-> 📧 **Email:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience%20Private%20Data%20Vault)
+> **In English:** All core source code, coursework implementations, and internal technical documentation (`SuleimanHolbertonComputerScience` repository) within this organization are strictly **Private** to uphold academic integrity and intellectual property protection. If you are a recruiter, academic reviewer, or research collaborator wishing to **request access** to the private repository, please reach out directly via email:  
+> **Email:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience)
 
 ---
 
-## 🏛️ Müəllif və Təşkilat Rəhbərliyi / Leadership & Authorship
+## Müəllif və Təşkilat Rəhbərliyi / Leadership & Authorship
 
-* **Müəllif və Mühəndis:** **Suleiman M. Hajizadeh** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
-* **İxtisas Sahəsi:** *Bioinformatika, Hesablamalı Biologiya və Kompüter Elmləri (Computer Science)*
-* **Giriş İcazəsi və Əlaqə (Access Requests & Contact):** [`suleyman.hacizade1@gmail.com`](mailto:suleyman.hacizade1@gmail.com)
-* **Məkan:** Bakı, Azərbaycan (Baku, Azerbaijan)
+- **Müəllif və Mühəndis:** **Suleiman M. Hajizadeh** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh))
+- **İxtisas Sahəsi:** Bioinformatika, Hesablamalı Biologiya və Kompüter Elmləri (Computational Biology & Computer Science)
+- **Giriş İcazəsi və Əlaqə:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
+- **Məkan:** Bakı, Azərbaycan (Baku, Azerbaijan)
 
 ---
 
-## 🌟 Təşkilatın Missiyası (Organization Mission)
+## Təşkilatın Missiyası (Organization Mission)
 
 **SuleimanHolbertonComputerScience** — **Holberton School**-un 9 aylıq intensiv Kompüter Elmləri və Proqram Təminatı Mühəndisliyi (Computer Science & Software Engineering) proqramı çərçivəsində tamamlanmış bütün tədris modullarının, alqoritmik layihələrin və sistem mühəndisliyi kod bazalarının mərkəzləşdirilmiş arxiv və vitrin təşkilatıdır.
 
-Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinformatika** alətlərinin (genom düzülüşü, filogenetik ağaclar, yüksək performanslı C hizalama alətləri) arxasında dayanan dərin mühəndislik sütunudur:
-* **Aşağı Səviyyəli C:** Yaddaşın birbaşa idarəsi və heap optimallaşdırması yüksək ötürücülü genom analizatorlarının (BLAST, BWA, Bowtie) əsasını təşkil edir.
-* **Mürəkkəb Verilənlər Strukturları:** Ağac strukturları (BST, AVL) və qraflar filogenetika və de Bruijn genom yığımı qraflarının riyazi bazasıdır.
-* **DevOps və Konteynerləşdirmə:** Docker və avtomatlaşdırma elmi təkrarolunma (Nextflow, Snakemake boru kəmərləri) üçün mütləq tələbdir.
+Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinformatika** sistemlərinin (genom düzülüşü, filogenetik ağaclar, yüksək performanslı C hizalama alətləri) arxasında dayanan dərin mühəndislik sütunudur:
+- **Aşağı Səviyyəli C:** Yaddaşın birbaşa idarəsi və heap optimallaşdırması yüksək ötürücülü genom analizatorlarının (BLAST, BWA, Bowtie) əsasını təşkil edir.
+- **Mürəkkəb Verilənlər Strukturları:** Ağac strukturları (BST, AVL) və qraflar filogenetika və de Bruijn genom yığımı qraflarının riyazi bazasıdır.
+- **DevOps və Konteynerləşdirmə:** Docker və avtomatlaşdırma elmi təkrarolunma (Nextflow, Snakemake boru kəmərləri) üçün mütləq tələbdir.
 
 ---
 
-## 🗂️ Rəsmi Repozitoriyalar / Official Repositories
+## Rəsmi Repozitoriyalar / Official Repositories
 
 | Repozitoriya | Növü | Təsvir və Məqsəd | Keçid / Giriş |
 | :--- | :--- | :--- | :--- |
-| 🌐 **[SuleimanHolbertonComputerScience.github.io](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience.github.io)** | `Public` / `Pages` | **Canlı Vitrin Veb Saytı:** Holberton modulları, statistika, Bioinformatika körpüsü və interaktiv UI ilə təchiz olunmuş rəsmi portal. | [Canlı Sayt ↗](https://suleimanholbertoncomputerscience.github.io) |
-| 🔒 **[SuleimanHolbertonComputerScience](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)** | `Private` / `Core Vault` | **Məxfi Kurs Materialları Anbarı & Obsidian LLM Wiki:** 16 modul, 1832+ git obyekti, tam commit tarixçəsi, interaktiv `wiki/` bilik şəbəkəsi və `AGENTS.md` protokolu. *(Giriş yalnız dəvətlədir)* | [📧 Access İstə](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience) |
-| ⚙️ **[.github](https://github.com/SuleimanHolbertonComputerScience/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilat üzrə qlobal profil, məxfilik qaydaları və ekosistem standartları. | [.github Reposu ↗](https://github.com/SuleimanHolbertonComputerScience/.github) |
+| **[SuleimanHolbertonComputerScience.github.io](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience.github.io)** | Public / Pages | Vitrin Veb Saytı: Holberton modulları, statistika, bioinformatika inteqrasiyası və texniki icmal portalı. | [Canlı Sayt](https://suleimanholbertoncomputerscience.github.io) |
+| **[SuleimanHolbertonComputerScience](https://github.com/SuleimanHolbertonComputerScience/SuleimanHolbertonComputerScience)** | Private / Core Repository | Əsas Kurs Materialları və Texniki Bilik Bazası: 16 modul, 1832+ commit, strukturlaşdırılmış wiki sənədləşməsi və layihə arxitekturası. | [Access Müraciəti](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%3A%20SuleimanHolbertonComputerScience) |
+| **[.github](https://github.com/SuleimanHolbertonComputerScience/.github)** | Public / Profile | Təşkilat Profili: Təşkilat miqyasında ümumi məlumatlar, təlimatlar və ekosistem standartları. | [.github Repozitoriyası](https://github.com/SuleimanHolbertonComputerScience/.github) |
 
 ---
 
-## 📚 Tədris Modulları Xülasəsi (Curriculum Breakdown)
+## Tədris Modulları Xülasəsi (Curriculum Breakdown)
 
-### 1. 💻 Low-Level Programming & C
-* `holbertonschool-low_level_programming` — C proqramlaşdırmanın əsasları, göstəricilər (pointers), dinamik yaddaş (`malloc`/`free`), strukturlar və bit əməliyyatları.
-* `holbertonschool-printf` — Standart C kitabxanasının `printf` funksiyasının sıfırdan realizasiyası (tam specifier dəstəyi ilə).
-* `holbertonschool-binary_trees` — İkili axtarış ağacları (BST), AVL balanslaşdırması və ağac keçid alqoritmləri.
-* `holbertonschool-sorting_algorithms` — Bubble, Insertion, Quick, Merge sort və Big-O mürəkkəblik analizi.
-* `holbertonschool-simple_shell` & `holbertonschool-shell` — UNIX əmr sətiri interfeysinin (CLI) sıfırdan yaradılması (`fork`, `execve`, pipes).
+### 1. Low-Level Programming & C
+- `holbertonschool-low_level_programming` — C proqramlaşdırmanın əsasları, göstəricilər (pointers), dinamik yaddaş (`malloc`/`free`), strukturlar və bit əməliyyatları.
+- `holbertonschool-printf` — Standart C kitabxanasının `printf` funksiyasının sıfırdan realizasiyası (tam specifier dəstəyi ilə).
+- `holbertonschool-binary_trees` — İkili axtarış ağacları (BST), AVL balanslaşdırması və ağac keçid alqoritmləri.
+- `holbertonschool-sorting_algorithms` — Bubble, Insertion, Quick, Merge sort və Big-O mürəkkəblik analizi.
+- `holbertonschool-simple_shell` & `holbertonschool-shell` — UNIX əmr sətiri interfeysinin (CLI) sıfırdan yaradılması (`fork`, `execve`, pipes).
 
-### 2. 🐍 Higher-Level Programming & Systems
-* `holbertonschool-higher_level_programming` — Python ilə Obyektyönlü Proqramlaşdırma (OOP), SQL, ORM, REST API.
-* `holbertonschool-hbnb` — AirBnB platformasının tam arxitektura klonu (CLI Console → Web Framework → DB ORM).
-* `holbertonschool-system_engineering-devops` & `holbertonschool-softy-pinko-docker` — Linux sistem inzibatçılığı, Bash avtomatlaşdırması və Docker konteynerləşdirməsi.
-* `holbertonschool-network` — OSI 7 səviyyəsi, TCP/UDP protokolları, şəbəkə soketləri və marşrutlaşdırma.
+### 2. Higher-Level Programming & Systems
+- `holbertonschool-higher_level_programming` — Python ilə Obyektyönlü Proqramlaşdırma (OOP), SQL, ORM, REST API.
+- `holbertonschool-hbnb` — AirBnB platformasının tam arxitektura klonu (CLI Console → Web Framework → DB ORM).
+- `holbertonschool-system_engineering-devops` & `holbertonschool-softy-pinko-docker` — Linux sistem inzibatçılığı, Bash avtomatlaşdırması və Docker konteynerləşdirməsi.
+- `holbertonschool-network` — OSI 7 səviyyəsi, TCP/UDP protokolları, şəbəkə soketləri və marşrutlaşdırma.
 
-### 3. 🌐 Web Engineering
-* `holbertonschool-web_front_end` — Semantik HTML5, adaptiv CSS3 və qabaqcıl layoutlar.
-* `holbertonschool-web_react` — Müasir React komponentləri, hooks və vəziyyət idarəsi (state management).
-* `holbertonschool-web_back_end` — Node.js, Express REST API-ləri və MongoDB məlumat saxlanması.
-* `holbertonschool-Fix_My_Code_Challenge` — Mövcud kod bazalarında poliqrafik xətaların (C, Python, JS, Ruby) aradan qaldırılması.
+### 3. Web Engineering
+- `holbertonschool-web_front_end` — Semantik HTML5, adaptiv CSS3 və qabaqcıl layoutlar.
+- `holbertonschool-web_react` — Müasir React komponentləri, hooks və vəziyyət idarəsi (state management).
+- `holbertonschool-web_back_end` — Node.js, Express REST API-ləri və MongoDB məlumat saxlanması.
+- `holbertonschool-Fix_My_Code_Challenge` — Mövcud kod bazalarında poliqrafik xətaların (C, Python, JS, Ruby) aradan qaldırılması.
 
 ---
 
-## 🔬 CS → Bioinformatika Körpüsü (The Bridge to Computational Biology)
+## CS → Bioinformatika Əlaqəsi (Computational Biology Foundations)
 
 | Kompüter Elmləri Bacarığı | Bioinformatikada Birbaşa Tətbiqi |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinform
 
 ---
 
-## 🛠️ Texnoloji Ekosistem (Tech Stack)
+## Texnoloji Ekosistem (Tech Stack)
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Bu baza sadəcə tədris arxivi deyil — **Hesablamalı Biologiya və Bioinform
 ---
 
 <p align="center">
-  <sub>🧬 <b>SuleimanHolbertonComputerScience</b> — Holberton School CS Foundations Archive & Computational Biology Bridge</sub><br>
-  <sub>🔒 <i>Bütün daxili məlumatlar və kod bazası məxfidir (Private). Giriş icazəsi üçün: <a href="mailto:suleyman.hacizade1@gmail.com">suleyman.hacizade1@gmail.com</a></i></sub><br>
+  <sub><b>SuleimanHolbertonComputerScience</b> — Holberton School CS Foundations Archive & Computational Biology Bridge</sub><br>
+  <sub><i>Bütün daxili məlumatlar və kod bazası məxfidir (Private). Giriş icazəsi üçün: <a href="mailto:suleyman.hacizade1@gmail.com">suleyman.hacizade1@gmail.com</a></i></sub><br>
   <sub>Müəllif: <a href="https://github.com/SuleimanHajizadeh">Süleyman Hacızadə</a> | Bakı, Azərbaycan</sub>
 </p>
